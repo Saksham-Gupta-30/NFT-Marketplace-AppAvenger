@@ -12,6 +12,12 @@ This project is an NFT (Non-Fungible Token) Marketplace that allows users to min
 
 4. **View Purchased NFTs**: Users can see the NFTs they have purchased in their collection.
 
+## Fee Structure
+
+- **Marketplace Owner Fee**: A fee percentage is charged to the marketplace owner for each NFT transaction. This fee is deducted from the final sale price and retained by the marketplace.
+
+- **Creator Royalty (Future Feature)**: In the future, a royalty system may be implemented to compensate creators when their NFTs are resold by buyers. This feature is currently under development and will enable creators to earn a percentage of the resale price.
+
 ## Technologies Used
 - **React**: A JavaScript library for building user interfaces.
 - **Ether.js**: A library for interacting with the Ethereum blockchain.
