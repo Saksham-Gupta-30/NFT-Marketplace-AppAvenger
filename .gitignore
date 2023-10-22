@@ -1,0 +1,9 @@
+node_modules
+
+.env
+
+package-lock.json
+
+cache
+
+web3/artifacts
